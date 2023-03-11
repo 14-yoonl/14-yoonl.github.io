@@ -1,6 +1,6 @@
 module.exports = {
   title: `14-yoonl`,
-  description: ``,
+  description: `안녕하세요 프론트엔드 개발자 이승윤입니다.`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://14-yoonl.github.io/`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
